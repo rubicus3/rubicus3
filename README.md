@@ -1,4 +1,4 @@
-Learning Software Engineering student
+idk
 
 <!-- - Currently working on [my coursework](https://github.com/rubicus3/coursework-opengl-qt), an app that uses OpenGL and Qt to chose and render 3D primitives. -->
 
